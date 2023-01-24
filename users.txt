@@ -1,0 +1,1 @@
+pi -1 root -1 =smarthome /home/pi /usr/bin/bash sudo,adm,dialout,www-data,users Candle
