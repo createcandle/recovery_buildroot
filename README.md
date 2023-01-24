@@ -1,4 +1,4 @@
-# recovery_buildroot
+# Candle Recovery partition buildroot
 
 Used to create the Candle recovery partition. Files do not correspond to correct positions within the buildroot folder.
 
