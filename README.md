@@ -5,6 +5,7 @@ Used to create the Candle recovery partition.
 See also https://github.com/createcandle/recovery_overlay
 
 - place recovery_overlay files so it becomes buildroot/rootfs_overlay/etc
+- increment buildroot/rootfs_overlay/candle_recovery.txt, which contains the version number
 - rename config file to .config. It should become buildroot/.config
 
 
